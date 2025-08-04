@@ -66,5 +66,60 @@ Finally, a vibrant **ribbon chart** reveals the **demand distribution across wee
 
 This page unpacks the rhythm of trips and the pulse of customer satisfaction.
 
+---
+
+### 📊 Repeat Passenger Rate & Trip Analysis
+
+![Repeat Passenger Rate and Trip Analysis](Dashboard/Images/RPR%20&%20Trip%20Insights.png)
+
+This section focuses on understanding passenger loyalty and evaluating how well cities are meeting their trip targets.
+
+It starts by highlighting the **Repeat Passenger Rate (%)** across cities and months, providing a clear picture of customer retention trends. The dashboard also shows **Total Passengers by Month**, helping to track overall demand patterns over time.
+
+To assess performance, the dashboard includes a visual comparison of **Trips Against Targets by City**, showing both actual numbers and target benchmarks. Additionally, the **Trip Target Difference (%)** is shown to measure how much each city exceeded or missed its goal.
+
+Together, these insights help identify cities with strong repeat passenger behavior and evaluate which ones are performing well operationally.
+
+This sheet provides both strategic and operational visibility, helping stakeholders quickly identify where to double down or take corrective actions.
+
+For a more detailed view of all visuals and metrics, refer to the full Power BI dashboard file available in the repository.
+
+---
+
+## 📈 Business Impact
+
+This project provides data-backed insights that can significantly support strategic decision-making across different functional teams:
+
+- **City-Level Strategy**: By identifying the top and bottom performing cities in terms of passenger volume and repeat rates, regional teams can focus their efforts on scaling high-potential areas and improving underperforming locations.
+
+- **Performance Benchmarking**: The analysis comparing actual vs. target metrics (for both trips and passenger ratings) gives a clear picture of where expectations are being met and where there’s a need for intervention or new strategies.
+
+- **Repeat Behavior Monitoring**: Repeat passenger trends broken down by frequency and city help retention teams understand customer loyalty. This can drive marketing campaigns, reward programs, and operational focus toward improving ride experience.
+
+- **Fare Optimization**: Metrics such as average fare per kilometer and trip distance give financial insights that can guide pricing strategies and route optimization, ensuring both profitability and customer satisfaction.
+
+- **Operational Efficiency**: Visuals like the demand variation between weekdays and weekends can assist in workforce allocation, shift planning, and overall service readiness.
+
+Together, these insights equip decision-makers with actionable intelligence to optimize operations, improve customer satisfaction, and align team efforts toward achieving business targets.
+
+---
+
+---
+
+## 📌 Conclusion
+
+This project provided a comprehensive overview of the ride-sharing data through SQL-driven insights and interactive dashboards in Power BI. By uncovering patterns in passenger behavior, trip performance, and city-wise trends, it enables stakeholders to make data-informed decisions to optimize operations and enhance customer satisfaction.
+
+---
+
+---
+
+## 🔗 Connect with Me
+
+Thanks for checking out this project! If you found it interesting or would like to collaborate, feel free to connect:
+
+- **LinkedIn**: [Samudran R](www.linkedin.com/in/samudran-r)
+
+
 
 

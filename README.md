@@ -118,7 +118,7 @@ This project provided a comprehensive overview of the ride-sharing data through 
 
 Thanks for checking out this project! If you found it interesting or would like to collaborate, feel free to connect:
 
-- **LinkedIn**: [Samudran R](www.linkedin.com/in/samudran-r)
+- **LinkedIn**: [Samudran R](https://www.linkedin.com/in/samudran-r/)
 
 
 
